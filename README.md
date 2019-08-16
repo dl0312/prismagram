@@ -1,5 +1,23 @@
 # Prisma
 
+Instagram clone with Express + Prisma + React and React Native
+
+## User Stories
+
+* [ ] Like / Unlike a photo
+* [ ] Commnet on a photo
+* [ ] Search by user
+* [ ] Search by location
+* [ ] See user profile
+* [ ] Follow / Unfollow User
+* [ ] See the full photo
+* [ ] Edit my profile
+* [ ] Create account
+* [ ] Log in
+* [ ] Upload the photo
+* [ ] Edit the photo (Delete)
+* [ ] See the feed
+
 `Prisma`는 `ORM(Object Relation Mapping)`이다.
 
 ORM
